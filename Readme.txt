@@ -1,7 +1,5 @@
 -->Name: Abdi Abera
--->Instructor : Ethan Cerami
--->Subject : csc 287
--->Date: 10/30/2021
+
 
 			project 1
 
