@@ -5,7 +5,7 @@
 
 ## Overview
 
-“Video Game by Python” is a project designed to showcase the power and versatility of Python in game development. This project is a hands-on demonstration of creating an interactive video game using Python, focusing on core programming concepts, game design principles, and the use of popular Python libraries such as Pygame.
+This is a project designed to showcase the power and versatility of Python in game development. This project is a hands-on demonstration of creating an interactive video game using Python, focusing on core programming concepts, game design principles, and the use of popular Python libraries such as Pygame.
 
 The project aims to engage users with an enjoyable gaming experience while also serving as an educational resource for those interested in learning how games are built from the ground up. Whether you are a beginner looking to understand basic game loops and graphics rendering, or an intermediate developer wanting to see how elements like collision detection, scoring, and event handling are implemented, this project provides a comprehensive example.
 
